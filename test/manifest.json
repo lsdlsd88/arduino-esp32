@@ -1,5 +1,5 @@
 {
-  "name": "ESPHome",
+  "name": "Ada test1",
   "builds": [
     {
       "chipFamily": "ESP32",
