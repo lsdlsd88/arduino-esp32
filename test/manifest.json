@@ -10,7 +10,6 @@
         { "path": "ota.bin", "offset": 57344 },
         { "path": "firmware.bin", "offset": 65536 }
       ]
-    },
-    
+    }    
   ]
 }
